@@ -24,18 +24,6 @@ Forward ever, backward never.
 
 [OpenSea](https://opensea.io/collection/foreverbots)
 
-
-<!-- CONTACT -->
-## Contact
-
-Twitter - [@0xElisik](https://twitter.com/0xElisik)
-
-LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
-
-Project Link: [https://github.com/0xBlueshiftLabs/ForeverBots](https://github.com/0xBlueshiftLabs/ForeverBots)
-
-
-
 ## Built With
 
 * [Truffle](https://www.trufflesuite.com/)
